@@ -1,0 +1,3 @@
+include 'ill-order-provider-api', 'ill-order-provider'
+
+rootProject.name = 'ill-order-service'
